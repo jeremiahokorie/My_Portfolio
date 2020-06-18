@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thanks for checking out my app!
 
 Developer Name: Jeremiah
 Author: Skytech
