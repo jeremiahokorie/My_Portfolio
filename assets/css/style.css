@@ -1241,6 +1241,7 @@ a:hover {
 
 .lead {
   font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
 }
 
 .box-comments .comment-children {
