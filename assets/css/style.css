@@ -1239,6 +1239,10 @@ a:hover {
   font-style: italic;
 }
 
+.lead {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .box-comments .comment-children {
   margin-left: 40px;
 }
