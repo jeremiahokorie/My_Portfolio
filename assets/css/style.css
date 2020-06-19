@@ -1244,6 +1244,10 @@ a:hover {
   font-size: 18px;
 }
 
+.CenterSide {
+  align-items: center;
+}
+
 .box-comments .comment-children {
   margin-left: 40px;
 }
